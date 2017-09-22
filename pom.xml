@@ -497,9 +497,9 @@
     </profiles>
 </project>
 
-<distributionManagement>
+<distributionManagement> 
   <repository>
-  <id>IDdoRepositorio</id>
-  <name>nomeRepositorio</name>
-  <url>http://172.18.219.248:8081/nexus/content/repositories/IDdoRepositorio</url>
+  <id>Test</id>
+  <name>Teste</name>
+  <url>http://localhost:8081/nexus/content/repositories/Test/</url>
   </repository>

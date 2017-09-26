@@ -499,7 +499,7 @@
 
 <distributionManagement> 
   <repository>
-  <id>Test</id>
-  <name>Teste</name>
-  <url>http://172.18.219.237:8081/nexus/content/repositories/Test</url>
+  <id>id</id>
+  <name>nome</name>
+  <url>http://172.18.219.237:8081/nexus/content/repositories/id</url>
   </repository>

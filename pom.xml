@@ -501,5 +501,5 @@
   <repository>
   <id>Test</id>
   <name>Teste</name>
-  <url>http://localhost:8081/nexus/content/repositories/Test/</url>
+  <url>http://172.18.219.237:8081/nexus/content/repositories/Test/</url>
   </repository>
